@@ -1,0 +1,11 @@
+[
+        {"name" : "phi", "CPP" : "1", "ASS" : "1", "JAV" : "1", "QML" : "1", "OPE" : "1"},
+	{"name" : "nam", "CPP" : "2", "ASS" : "4", "JAV" : "3", "QML" : "1", "OPE" : "4"},
+	{"name" : "bao", "CPP" : "3", "ASS" : "5", "JAV" : "1", "QML" : "2", "OPE" : "1"},
+	{"name" : "tuan", "CPP" : "1", "ASS" : "1", "JAV" : "1", "QML" : "1", "OPE" : "1"},
+	{"name" : "nam", "CPP" : "2", "ASS" : "4", "JAV" : "3", "QML" : "1", "OPE" : "4"},
+	{"name" : "bao", "CPP" : "3", "ASS" : "5", "JAV" : "1", "QML" : "2", "OPE" : "1"},
+	{"name" : "tuan", "CPP" : "1", "ASS" : "1", "JAV" : "1", "QML" : "1", "OPE" : "1"},
+	{"name" : "nam", "CPP" : "2", "ASS" : "4", "JAV" : "3", "QML" : "1", "OPE" : "4"},
+        {"name" : "lam dao", "CPP" : "3", "ASS" : "5", "JAV" : "1", "QML" : "2", "OPE" : "1"}
+]
